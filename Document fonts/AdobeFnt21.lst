@@ -1,0 +1,103 @@
+%!Adobe-FontList 1.20
+%Locale:0x402
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ACampusOtlShBold
+FamilyName:a_CampusOtlSh
+StyleName:Bold
+FullName:a_CampusOtlSh Bold
+MenuName:a_CampusOtlSh
+StyleBits:2
+FamilyNameNative:a_CampusOtlSh
+StyleNameNative:Bold
+FullNameNative:a_CampusOtlSh Bold
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\Diana\Documents\GitHub\InDesign\Document fonts\a_campusotlsh-bold_[allfont.net].ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:76028
+FileModTime:1652898829
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,a_CampusOtlSh Bold
+NameArray:0,Win,1,a_CampusOtlSh
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Diana\Documents\GitHub\InDesign\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1574829002
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MonotypeCorsiva
+FamilyName:Monotype Corsiva
+StyleName:Regular
+FullName:Monotype Corsiva
+MenuName:Monotype Corsiva
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Diana\Documents\GitHub\InDesign\Document fonts\MTCORSVA.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:157360
+FileModTime:1438219674
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Monotype Corsiva
+NameArray:0,Win,1,Monotype Corsiva
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifVariable-Roman
+FamilyName:Source Serif Variable
+StyleName:Roman
+FullName:Source Serif Variable Roman
+MenuName:Source Serif Variable
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Diana\Documents\GitHub\InDesign\Document fonts\SourceSerifVariable-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:CFF2VariableFont
+FileLength:458404
+FileModTime:1574829004
+WeightClass:389
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Serif Variable
+%EndFont
+
